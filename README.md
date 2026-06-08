@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abubakar Mohammed Bakar</h1>
+<h3 align="center">Full-Stack Developer | JavaScript, React, Node.js | Based in Japan</h3>
 
+---
 
-**abubakarmohaa2002-ux/abubakarmohaa2002-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Computer Science graduate based in Japan  
+- 💻 Focused on full-stack web development  
+- ⚛️ Building applications using React, Node.js, and MongoDB  
+- 🌱 Improving backend development and deployment skills  
+- 🎯 Looking for Software Engineer / Full-Stack roles  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on devops
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python" />
+</p>
+
+### ⚛️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### 🔧 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 📊 Expense Tracking System
+- Built using Python and MySQL  
+- Tracks and categorizes user expenses  
+- Generates monthly financial reports  
+
+---
+
+### 🗳️ Blockchain Voting System
+- Developed decentralized voting system  
+- Used smart contracts for transparency  
+- Focused on secure voting  
+
+---
+
+## 📫 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/abubakarmohaa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:abubakarmohaa2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+⚡ I enjoy building real-world applications and continuously improving my skills
 
