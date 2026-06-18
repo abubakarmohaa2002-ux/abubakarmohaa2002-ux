@@ -45,22 +45,6 @@ Check my portfolio:
 
 ---
 
-## 🚀 Projects
-
-### 📊 Expense Tracking System
-- Built using Python and MySQL  
-- Tracks and categorizes user expenses  
-- Generates monthly financial reports  
-
----
-
-### 🗳️ Blockchain Voting System
-- Developed decentralized voting system  
-- Used smart contracts for transparency  
-- Focused on secure voting  
-
----
-
 ## 📫 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/abubakarmohaa/" target="_blank">
